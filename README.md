@@ -1,2 +1,1 @@
-# WebARWorkshop
- 
+# camera_kit_demo
